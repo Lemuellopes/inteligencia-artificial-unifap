@@ -52,5 +52,6 @@ Repositório oficial do grupo: <https://github.com/JoaoGabrielOSdev/Tde-do-ia>
 |---|---|---|
 | TDE 01 | [`notebook`](03-tdes/tde01-analise-exploratoria/TDE01_Analise_Volatilidade_Acoes_Optiver_corrigido.ipynb) · [`apresentação`](03-tdes/tde01-analise-exploratoria/TDE01_Apresentacao.pdf) | Análise exploratória dos dados |
 | TDE 03 | [`notebook`](03-tdes/tde03-baseline/TDE03_Baseline_Volatilidade_Acoes_Optiver.ipynb) | Baseline: Regressão Linear, Árvore de Decisão e Random Forest sem otimização, avaliados com MAE, MSE, RMSE e R² |
+| TDE 04 | [`notebook`](03-tdes/tde04-modelo-final/TDE04_Modelos_Volatilidade_Acoes_Optiver.ipynb) | Evolução e modelo final: novos atributos, alvo em log, ajuste com validação cruzada por `time_id`, SVM, rede neural (MLP), LightGBM, XGBoost, Extra Trees e comitê |
 
 Os notebooks dos TDEs baixam os dados do Kaggle e devem ser executados no Google Colab (instruções dentro de cada notebook).
